@@ -1,0 +1,63 @@
+MELHORES CARTEIRAS DE 16 TICKERS POR JANELA
+============================================================
+
+1 ANO
+------------------------------------------------------------
+Melhor carteira:
+CSMG3, USIM5, JHSF3, BMEB4, ENEV3, VALE3, BRAP4, UGPA3, VBBR3, GOAU4, PRIO3, MRSA3B, EKTR3, CEEB3, PETR4, ORVR3
+
+Em ambas:
+GOAU4, PETR4, VALE3
+
+Só na melhor carteira:
+BMEB4, BRAP4, CEEB3, CSMG3, EKTR3, ENEV3, JHSF3, MRSA3B, ORVR3, PRIO3, UGPA3, USIM5, VBBR3
+
+Só na minha carteira:
+BBAS3, BBDC4, BBSE3, CMIG3, CPLE3, CSAN3, ISAE3, ITSA4, ITUB4, KLBN11, SAPR4, TAEE11, WEGE3
+
+
+3 ANOS
+------------------------------------------------------------
+Melhor carteira:
+BMEB4, EMBJ3, CSMG3, JHSF3, CURY3, SBSP3, MBRF3, CPLE3, PETR4, PSSA3, EKTR3, VBBR3, CXSE3, ITSA4, ORVR3, ENEV3
+
+Em ambas:
+CPLE3, ITSA4, PETR4
+
+Só na melhor carteira:
+BMEB4, CSMG3, CURY3, CXSE3, EKTR3, EMBJ3, ENEV3, JHSF3, MBRF3, ORVR3, PSSA3, SBSP3, VBBR3
+
+Só na minha carteira:
+BBAS3, BBDC4, BBSE3, CMIG3, CSAN3, GOAU4, ISAE3, ITUB4, KLBN11, SAPR4, TAEE11, VALE3, WEGE3
+
+
+5 ANOS
+------------------------------------------------------------
+Melhor carteira:
+BMEB4, PETR4, CURY3, CSMG3, SBSP3, EMBJ3, CPLE3, UGPA3, EKTR3, PRIO3, ORVR3, TIMS3, CMIG4, SAPR11, PSSA3, BBSE3
+
+Em ambas:
+BBSE3, CPLE3, PETR4
+
+Só na melhor carteira:
+BMEB4, CMIG4, CSMG3, CURY3, EKTR3, EMBJ3, ORVR3, PRIO3, PSSA3, SAPR11, SBSP3, TIMS3, UGPA3
+
+Só na minha carteira:
+BBAS3, BBDC4, CMIG3, CSAN3, GOAU4, ISAE3, ITSA4, ITUB4, KLBN11, SAPR4, TAEE11, VALE3, WEGE3
+
+
+10 ANOS
+------------------------------------------------------------
+Melhor carteira:
+PRIO3, BMEB4, BRAP4, PETR4, CPLE3, JHSF3, CSMG3, GOAU4, VALE3, GGBR3, ENMT4, CMIG4, BNBR3, EKTR3, ENEV3, WEGE3
+
+Em ambas:
+CPLE3, GOAU4, PETR4, VALE3, WEGE3
+
+Só na melhor carteira:
+BMEB4, BNBR3, BRAP4, CMIG4, CSMG3, EKTR3, ENEV3, ENMT4, GGBR3, JHSF3, PRIO3
+
+Só na minha carteira:
+BBAS3, BBDC4, BBSE3, CMIG3, CSAN3, ISAE3, ITSA4, ITUB4, KLBN11, SAPR4, TAEE11
+
+
